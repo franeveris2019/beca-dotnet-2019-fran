@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("CAMBIO DE DE HOLA MUNDO Y MERGE DE DEVELOP A MASTER");
+            Console.WriteLine("Hola mundo 2");
         }
     }
 }
